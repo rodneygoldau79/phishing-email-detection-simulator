@@ -16,3 +16,9 @@ emails = [
 for email in emails:
 
 email_lower = email.lower()
+
+for keyword in phishing_keywords:
+
+if keyword in email_lower:
+print("PHISHING ALERT:", email)
+break
