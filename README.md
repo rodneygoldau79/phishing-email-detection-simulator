@@ -13,3 +13,14 @@ The program checks for common phishing techniques including:
 Purpose:
 Demonstrate phishing detection logic used in security monitoring
 and email filtering systems.
+
+## Phishing Indicators Detected
+
+The simulation detects common phishing signals:
+
+- Urgent language
+- Credential requests
+- Suspicious links
+- Social engineering phrases
+
+These techniques are frequently used in real phishing campaigns.
