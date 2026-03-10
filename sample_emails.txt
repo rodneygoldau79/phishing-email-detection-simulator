@@ -1,0 +1,14 @@
+Email 1
+From: IT Support
+Subject: Password Reset Required
+Message: Your password expires today. Click here immediately to reset.
+
+Email 2
+From: bank-security-alert@securebank-login.net
+Subject: Urgent Account Notice
+Message: Verify your banking credentials immediately.
+
+Email 3
+From: coworker@company.com
+Subject: Meeting Tomorrow
+Message: Reminder about our meeting tomorrow at 10am.
